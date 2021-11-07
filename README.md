@@ -1,15 +1,15 @@
 # testrepo
 This is a test file
 
-Waht is GitLab?
+## Waht is GitLab?
 
-GitLab is:
- . A DevOps platform, delivered as a single application.
- . Provides access to Git Repositories.
- . Provides source code management.
+### GitLab is:
+1. A DevOps platform, delivered as a single application.
+2. Provides access to Git Repositories.
+3. Provides source code management.
 
-GitLab enables developers to:
- . Collaborate.
- . Work from a local copy.
- . Branch and merge code.
- . Streamline testing and delivery with CI/CD.
+### GitLab enables developers to:
+1. Collaborate.
+2. Work from a local copy.
+3. Branch and merge code.
+4. Streamline testing and delivery with CI/CD.
